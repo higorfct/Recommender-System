@@ -89,9 +89,7 @@ O projeto demonstra como técnicas de **mineração de padrões frequentes** pod
 ## 🔄 Próximos Passos
 
 - Implementar recomendações em tempo real com base no carrinho do usuário.
-
 - Integrar com dados de perfil do cliente para recomendações personalizadas.
-
 - Testar regras em um sistema de A/B Testing para medir impacto em vendas.
 
 
