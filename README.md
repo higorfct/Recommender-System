@@ -2,7 +2,7 @@
 
 ## 📝 Introdução
 
-Este projeto tem como objetivo desenvolver um **sistema de recomendação baseado em regras de associação**, utilizando transações de compra de clientes. A proposta é identificar padrões de consumo que permitam recomendar produtos frequentemente comprados juntos.
+Este projeto tem como objetivo desenvolver um **sistema de recomendação baseado em regras de associação**, utilizando transações de compra de clientes em um supermercado. A proposta é identificar padrões de consumo que permitam recomendar produtos frequentemente comprados juntos.
 
 Utilizamos os algoritmos **Apriori** e **FP-Growth** para encontrar **conjuntos frequentes de itens** e **gerar regras de associação**, filtradas com base em métricas como **suporte**, **confiança** e **lift**.
 
