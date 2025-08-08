@@ -49,6 +49,22 @@ As regras geradas foram ordenadas por **lift** para destacar as mais relevantes.
 
 Essas regras indicam produtos que frequentemente aparecem juntos nas transações e podem ser utilizados para recomendações direcionadas.
 
+## 💼 Impacto Financeiro Estimado
+
+Este sistema de recomendação baseado em regras de associação tem potencial para aumentar as vendas por meio de estratégias de cross-selling, ao identificar padrões de compra frequentes e sugerir produtos complementares aos clientes.
+
+Considerando um cenário simulado com:
+
+- Receita anual atual de R$ 3.000.000,00;
+- Alcance estimado de 30% dos clientes com as recomendações;
+- Aumento médio de 15% nas vendas para os clientes impactados;
+
+A projeção de ganho financeiro anual é:
+
+- Receita adicional estimada em R$ 135.000,00 (3.000.000 × 30% × 15%).
+
+Este ganho pode ser ainda maior com a personalização contínua e integração em tempo real das recomendações.
+
 ---
 
 ## 📈 Visualizações
