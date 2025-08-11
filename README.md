@@ -51,17 +51,20 @@ Essas regras indicam produtos que frequentemente aparecem juntos nas transaçõe
 
 ## 💼 Impacto Financeiro Estimado
 
-Este sistema de recomendação baseado em regras de associação tem potencial para aumentar as vendas por meio de estratégias de cross-selling, ao identificar padrões de compra frequentes e sugerir produtos complementares aos clientes.
+Este script estima o impacto financeiro potencial de um sistema de recomendação, considerando parâmetros definidos pelo negócio.
 
-Considerando um cenário simulado com:
+**Parâmetros**
+- Lucro médio por transação: R$ 5,00  
+- Aumento estimado na taxa de conversão: 10%  
+- Total de transações: 500
 
-- Receita anual atual de R$ 3.000.000,00;
-- Alcance estimado de 30% dos clientes com as recomendações;
-- Aumento médio de 15% nas vendas para os clientes impactados;
+**Cálculos**
+- Transações adicionais = 500 × 0,10 = 50  
+- Impacto financeiro = 50 × R$ 5,00 = R$ 250,00
 
-A projeção de ganho financeiro anual é:
-
-- Receita adicional estimada em R$ 135.000,00 (3.000.000 × 30% × 15%).
+**Resultados**
+- Transações adicionais estimadas: 50  
+- Impacto financeiro estimado: R$ 250,00
 
 Este ganho pode ser ainda maior com a personalização contínua e integração em tempo real das recomendações.
 
