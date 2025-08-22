@@ -1,4 +1,4 @@
-# Project 3: Product Recommendation System
+# Project 3: Product Recommender System
 
 ## 📝 Introduction
 
