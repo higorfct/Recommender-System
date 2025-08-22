@@ -51,7 +51,7 @@ These rules indicate products that frequently appear together in transactions an
 
 ## 💼 Estimated Financial Impact
 
-This script estimates the potential financial impact of a recommendation system, considering parameters defined by the business.
+This script estimates the potential financial impact of a recommender system, considering parameters defined by the business.
 
 **Parameters**
 - Average profit per transaction: R$ 5.00
