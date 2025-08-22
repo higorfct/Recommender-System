@@ -2,7 +2,7 @@
 
 ## 📝 Introduction
 
-This project aims to develop an **association rule-based recommendation system**, using customer purchase transactions from a supermarket. The goal is to identify consumption patterns that allow us to recommend products frequently bought together.
+This project aims to develop an **association rule-based recommender system**, using customer purchase transactions from a supermarket. The goal is to identify consumption patterns that allow us to recommend products frequently bought together.
 
 We use the **Apriori** and **FP-Growth** algorithms to find **frequent itemsets** and **generate association rules**, filtered based on metrics such as **support**, **confidence**, and **lift**.
 
