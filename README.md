@@ -10,7 +10,7 @@ We use the **Apriori** and **FP-Growth** algorithms to find **frequent itemsets*
 
 ## 📊 Data
 
-The data is contained in the `transacoes.csv` file, which consists of **lists of products purchased by customers in a single transaction**. Each line represents an individual transaction.
+The data is contained in the `transactions.csv` file, which consists of **lists of products purchased by customers in a single transaction**. Each line represents an individual transaction.
 
 ### Steps performed:
 - Reading and cleaning transactions (removal of spaces and quotes)
