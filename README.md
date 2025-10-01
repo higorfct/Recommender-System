@@ -8,6 +8,16 @@ We use the **Apriori** and **FP-Growth** algorithms to find **frequent itemsets*
 
 ---
 
+
+1. **Clone the repository and install dependencies:**
+    ```bash
+    git clone https://github.com/higorfct/Recommender-System
+    cd Recommender-System
+    pip install -r requirements.txt
+    ```
+
+---
+
 ## 📊 Data
 
 The data is contained in the `transactions.csv` file, which consists of **lists of products purchased by customers in a single transaction**. Each line represents an individual transaction.
